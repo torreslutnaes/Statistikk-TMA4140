@@ -65,6 +65,3 @@ plt.xlabel('x')
 plt.ylabel('Residualer')
 plt.title('Residualplot')
 plt.show()
-
-
-
