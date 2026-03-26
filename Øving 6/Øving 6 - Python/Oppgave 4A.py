@@ -15,6 +15,7 @@ y = np.array([
 ])
 
 n = len(x) + 1
+# n = 27
 
 #Utregning av gjennomsnitt for x og y
 x_snitt = np.mean(x).round(3)
